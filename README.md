@@ -80,3 +80,5 @@ Créditos e Referências
 •	Expo
 •	Bootstrap
 •	API REST fornecida pelo professor: https://proweb.leoproti.com.br/produtos
+
+link publicado no vercel https://meu-estudo-caso-2-atual-git-main-luanas-projects-7e64c17d.vercel.app/
